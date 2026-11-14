@@ -1,0 +1,9 @@
+pyspark==3.5.3
+delta-spark==3.2.1
+pandas
+requests
+faker
+python-dotenv
+psycopg2-binary
+jupyter
+ipykernel
